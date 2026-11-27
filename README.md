@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,100:be185d&height=150&section=header&text=ARKADAS%20ADI%20SOYADI&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Bilgisayar%20Programc%C4%B1l%C4%B1%C4%9F%C4%B1%20%C3%96%C4%9Frencisi&descAlignY=66&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,100:be185d&height=150&section=header&text=%20Şevval%20Karaduman&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Bilgisayar%20Programc%C4%B1l%C4%B1%C4%9F%C4%B1%20%C3%96%C4%9Frencisi&descAlignY=66&descSize=16" width="100%" />
 </p>
 
 <p align="center">
