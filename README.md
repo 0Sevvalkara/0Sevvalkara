@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/E--POSTA-arkadasin%40ornek.edu.tr-BE185D?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/E--POSTA-o261701025@stu.bayburt.edu.tr-BE185D?style=flat-square&logo=gmail&logoColor=white" />
   <img src="https://img.shields.io/badge/GITHUB-0SevvalKara-4C1D95?style=flat-square&logo=github&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=Şevval Karaduman&label=Z%C4%B0YARET%C3%87%C4%B0&color=6D28D9&style=flat-square" />
 </p>
